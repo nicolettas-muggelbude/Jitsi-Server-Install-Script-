@@ -10,7 +10,7 @@ Insallations-Script für Jitsi auf Ubuntu 24.04 Server. On Prem und Cloud
 
 ## Anleitung zur Verwendung:
 
-### DNS-Konfiguration:**
+### DNS-Konfiguration:
 
 Stelle sicher, dass der Hostname des Servers (hostname -f) auf eine öffentliche IP zeigt (z. B. über einen A- oder AAAA-Eintrag).
 Für beispielsweise Hetzner Cloud: Nutze die Hetzner DNS-Verwaltung oder einen externen DNS-Anbieter.
