@@ -1,7 +1,7 @@
 # Jitsi-Server-Install-Script
 Insallations-Script für Jitsi auf Ubuntu 24.04 Server. On Prem und Cloud
 
-##H inweis:
+## Hinweis:
 
 - Das Skript ist für eine frische Ubuntu Server 24.04.4-Installation ausgelegt.
 - Für beispielsweise Hetzner Cloud musst du ggf. die Firewall-Regeln anpassen oder die Hetzner Firewall entsprechend konfigurieren.
